@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+.container {
+    max-width: 100%px;
+    height: auto 0;
+}
+.gojo {
+    background: url(https://s3-alpha-sig.figma.com/img/a397/4a28/0dc63d9ccd142ecdbf799689440dc6be?Expires=1698624000&Signature=H~Q1KSHaLMjdZ6CMn6ftG8l5YC1DUe3HwUlcbEGkMaOU9bof2BEmXNlPUTAkPryxPwtZGQdWE3Ey61A8TbeyQ9xBXBswVFngqN5WRBZ465m4m3sjrzp5Z8ZGX5E7qg1NZADTJ7nPbz5VA55P-uVXHNNjTayiPFatVo-s2TB1ItYTmBu9QH3nZDKIoHLiokNcWJ6r~cbiQ9T-vhfEaxnglfupJbY2UwSm5xmrf8TU7WYpWo-h1MRXD8l0Q0cmi3JqyoWbtCrECne8D07KWgm2dJI9ttd1bY0PsSjtOUQmr6DZhiBLPS1j8SwHGWjedxVP-x-f36BJKxax5OGYhaTETg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4)
+            center,
+        cover;
+}
+.img {
+    position: relative;
+}
+.header {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
